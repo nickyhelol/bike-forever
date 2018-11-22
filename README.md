@@ -5,26 +5,37 @@ It is a web application using React & Typescript. This app is built for motorcyc
 
 https://bikeforever.azurewebsites.net/
 
-<img src="images/image1.PNG" >
-<img src="images/image2.PNG" >
-<img src="images/image3.PNG" >
-<img src="images/image4.PNG" >
-<img src="images/image5.PNG" >
-<img src="images/image6.PNG" >
-<img src="images/image7.PNG" >
-<img src="images/image8.PNG" >
-<img src="images/image9.PNG" >
+<img src="images/capture3.PNG" >
+<img src="images/capture4.PNG" >
+<img src="images/capture5.PNG" >
+<img src="images/capture6.PNG" >
+
+## Instructions
+
+Before you run the app, you need to add this website into your trusted sites list. Here is the example for Chrome.
+
+<img src="images/capture.PNG" >
+<img src="images/capture1.PNG" >
+
+Then you need to make sure you have granted the permission for the web to access the microphone.
+
+<img src="images/capture2.PNG" >
+
 
 ## Features
 
-- Responsive pages regarding in phones, iPad or PC
-- Cloud database
-- Administrator function
+- React & Typescript
+- Firebase authentication integrated with Facebook, Github and Google
+- Customized REST API that supports CRUD functions
+- Supported voice searching function
+- Customized UI with FontAwesome icons
 
 ## Tech Stack
 
-- ASP.NET MVC Core
+- React
+- Typescript
+- ASP.NET Core
 - C#
-- RAZOR Page
 - Entity Framework core 
-- Azure Cloud Service
+- Azure Cloud Service 
+
