@@ -1,0 +1,11 @@
+img.post-item-image {
+    max-height: 50px;
+}
+
+a {
+    max-height: 70px;   
+}
+
+.list-group-item-text {
+    margin-left: 0%;
+}

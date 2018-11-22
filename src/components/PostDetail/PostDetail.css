@@ -1,0 +1,31 @@
+img.post-detail-image {
+    max-width: 90%;
+    max-height: 400px;
+}
+
+.post-detail {
+    margin-top: 20px;
+    margin-left: 10%;
+}
+
+.left {
+    margin-top: 5px;
+    text-align: left;
+    width: 60%;
+}
+
+.right {
+    margin-top: 5px;
+    text-align: left;
+    width: 33%;
+}
+
+.tags {
+    margin-top: 10px;
+    text-align: left;
+    width: 77%;
+}
+
+.thumb {
+    margin-top: 10px;
+}

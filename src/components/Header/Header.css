@@ -1,0 +1,8 @@
+input {
+    width: 300px !important;
+    display: inline-block;
+}
+
+.profile {
+    margin-right: 10px;
+}
