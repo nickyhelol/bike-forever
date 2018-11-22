@@ -6,10 +6,9 @@ It is a web application using React & Typescript. This app is built for motorcyc
 - Frontend   https://bikeforever.azurewebsites.net/
 - Backend    https://github.com/NickyhePro/BikeForeverAPI
 
-<img src="images/Capture3.PNG" width="80%">
-<img src="images/Capture4.PNG" width="80%">
-<img src="images/Capture5.PNG" width="80%">
-<img src="images/Capture6.PNG" width="80%">
+Click the video below
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/ZrqbzFbTPho/0.jpg)](https://www.youtube.com/watch?v=ZrqbzFbTPho)
 
 ## Instructions
 
