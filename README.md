@@ -23,11 +23,11 @@ Then you need to make sure you have granted the permission for the web to access
 
 ## App Insights
 
-Performance <br>
-<img src="images/insights1.png" width="80">
+Performance
+<img src="images/insights1.png">
 
 Analytics
-<img src="images/insights2.png" width="80%">
+<img src="images/insights2.png">
 
 ## Features
 
